@@ -1,6 +1,8 @@
-function openLetter() {
-  const letter = document.getElementById("letter");
+function enterSite() {
+  document.getElementById("overlay").style.display = "none";
+  document.body.style.overflow = "auto";
+}
 
-  // toggles between hidden and visible
-  letter.classList.toggle("hidden");
+function openLetter() {
+  document.getElementById("letter").classList.toggle("hidden");
 }
