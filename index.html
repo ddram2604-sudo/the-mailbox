@@ -1,13 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>The Mailbox</title>
-</head>
-<body style="background:#f7f1e8; font-family: serif; text-align:center; padding-top:100px;">
+  <title>Letters to Arthur</title>
 
-  <h1 style="font-size:40px;">The Mailbox</h1>
-  <p style="font-size:18px;">Letters to Arthur</p>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      font-family: Georgia, serif;
+      background: #f7f3f0;
+      color: #2c2c2c;
+      overflow: hidden;
+    }
+
+    /* 🌸 Enter screen overlay */
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #f7f3f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      transition: opacity 1.2s ease;
+      z-index: 10;
+    }
+
+    .overlay h1 {
+      font-size: 34px;
+      margin-bottom: 10px;
+    }
+
+    .overlay button {
+      padding: 10px 22px;
+      border: none;
+      border-radius: 20px;
+      background: #2c2c2c;
+      color: white;
+      cursor: pointer;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .overlay.fade {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    /* 💌 Main homepage */
+    .container {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      flex-direction: column;
+    }
+
+    h2 {
+      font-size: 42px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      opacity: 0.7;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- 🌸 Enter Screen -->
+  <div class="overlay" id="overlay">
+    <h1>Letters to Arthur</h1>
+    <p>a quiet place for words that never left me</p>
+    <button onclick="enterSite()">enter</button>
+  </div>
+
+  <!-- 💌 Main Page -->
+  <div class="container">
+    <h2>Letters to Arthur</h2>
+    <p>welcome home</p>
+  </div>
+
+  <script>
+    function enterSite() {
+      document.getElementById("overlay").classList.add("fade");
+
+      setTimeout(() => {
+        document.getElementById("overlay").style.display = "none";
+        document.body.style.overflow = "auto";
+      }, 1200);
+    }
+  </script>
 
 </body>
 </html>
