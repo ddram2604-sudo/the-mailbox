@@ -32,8 +32,56 @@ const letters = {
     letter5: {
         title: "Open when you're missing my voice",
         text: "This is where this letter will go."
-    }
+    },
 
+    letter6: { title: "Open when you're struggling to sleep", 
+              text: `Write your letter here...` 
+     },
+    
+    letter7: { title: "Open when you're having a good day ",
+              text: `Write your letter here...`
+     },
+    
+    letter8: { title: "Open when you're feeling lonely",
+              text: `Write your letter here...` 
+    },
+    
+    letter9: { title: "Open when it's the 30th of September ",
+              text: `Write your letter here...` 
+    },
+    
+    letter10:{ title: "Open when you're needing a giggle", 
+              text: `Write your letter here...`
+   },
+
+    letter11:{ title: "Open when you're having a bad day ", 
+              text: `Write your letter here...`
+    },
+    
+    letter12:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter13:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter14:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter15:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+
+    letter16:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter17:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter18:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter19:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter20:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+
+    letter21:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter22:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter23:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter24:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter25:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+
+    letter26:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter27:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter28:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter29:{ title: "YOUR TITLE HERE", text: `Write your letter here...` },
+    letter30:{ title: "YOUR TITLE HERE", text: `Write your letter here...` }
+
+};
 };
 
 // ---------- Open Letter ----------
