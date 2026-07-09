@@ -156,15 +156,7 @@ document.querySelectorAll(".hotspot").forEach(button => {
 // ---------- Close ----------
 
 closeBtn.addEventListener("click", () => {
-
     popup.classList.remove("show");
-
-    setTimeout(() => {
-
-        popup.classList.remove("show");
-
-    }, 200);
-
 });
 
 // ---------- Click Outside ----------
@@ -175,28 +167,16 @@ popup.addEventListener("click", (e) => {
 
         popup.classList.remove("show");
 
-        setTimeout(() => {
-popup.classList.remove("show");
-        }, 200);
-
     }
 
 });
 
 // ---------- Escape ----------
 
-document.addEventListener("keydown", (e) => {
+if (e.key === "Escape") {
 
-    if (e.key === "Escape") {
+    popup.classList.remove("show");
 
-        popup.classList.remove("show");
-
-        setTimeout(() => {
-
-           popup.classList.remove("show");
-
-        }, 200);
-
-    }
+}
 
 });
