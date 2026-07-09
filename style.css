@@ -1,3 +1,7 @@
+/* ===========================
+   RESET
+=========================== */
+
 *{
     margin:0;
     padding:0;
@@ -24,64 +28,143 @@ body{
     box-shadow:0 20px 40px rgba(0,0,0,.15);
 }
 
-/* ==========================
+/* ===========================
+   HOTSPOTS
+=========================== */
+
+.hotspot{
+    position:absolute;
+    background:transparent;
+    border:none;
+    cursor:pointer;
+    z-index:5;
+}
+
+.hotspot:hover{
+    outline:2px solid rgba(255,255,255,.6); /* remove later */
+}
+
+/* ===== FIRST ROW ===== */
+
+#letter1{
+    left:4%;
+    top:25.5%;
+    width:15%;
+    height:8%;
+}
+
+#letter2{
+    left:22.5%;
+    top:25.5%;
+    width:15%;
+    height:8%;
+}
+
+#letter3{
+    left:41%;
+    top:25.5%;
+    width:15%;
+    height:8%;
+}
+
+#letter4{
+    left:59.5%;
+    top:25.5%;
+    width:15%;
+    height:8%;
+}
+
+#letter5{
+    left:78%;
+    top:25.5%;
+    width:15%;
+    height:8%;
+}
+
+/* Hide the rest for now */
+
+#letter6,
+#letter7,
+#letter8,
+#letter9,
+#letter10,
+#letter11,
+#letter12,
+#letter13,
+#letter14,
+#letter15,
+#letter16,
+#letter17,
+#letter18,
+#letter19,
+#letter20,
+#letter21,
+#letter22,
+#letter23,
+#letter24,
+#letter25,
+#letter26,
+#letter27,
+#letter28,
+#letter29,
+#letter30{
+    display:none;
+}
+
+/* ===========================
    POPUP
-========================== */
+=========================== */
 
 #popup{
-
     position:fixed;
-
     inset:0;
-
     background:rgba(0,0,0,.55);
 
     display:none;
 
     justify-content:center;
-
     align-items:center;
 
+    z-index:100;
 }
 
 .envelope{
-
     width:700px;
-
     max-width:90%;
+    background:#f2d7d7;
+    border-radius:18px;
+    padding:18px;
+    box-shadow:0 20px 45px rgba(0,0,0,.35);
 
-    background:#f4d6d6;
+    transform:scale(.8);
+    transition:.3s;
+}
 
-    border-radius:15px;
-
-    padding:20px;
-
-    box-shadow:0 25px 50px rgba(0,0,0,.3);
-
+#popup.show .envelope{
+    transform:scale(1);
 }
 
 .letter{
-
     background:#fffaf2;
-
     border-radius:10px;
-
     padding:50px;
-
+    min-height:450px;
 }
 
-.letter h2{
+#close{
+    float:right;
+    background:none;
+    border:none;
+    font-size:30px;
+    cursor:pointer;
+}
 
+#letterTitle{
+    margin-bottom:25px;
     color:#8b1e3f;
-
-    margin-bottom:20px;
-
 }
 
-.letter p{
-
+#letterContent{
     line-height:1.8;
-
     color:#444;
-
 }
