@@ -1,1 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
+body{
+
+    background:#f8dfe7;
+
+    display:flex;
+
+    justify-content:center;
+
+    padding:20px;
+
+}
+
+.mailbox{
+
+    position:relative;
+
+    width:min(100%,1366px);
+
+}
+
+.mailbox img{
+
+    width:100%;
+
+    display:block;
+
+    border-radius:15px;
+
+    box-shadow:0 20px 40px rgba(0,0,0,.15);
+
+}
