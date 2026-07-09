@@ -5,44 +5,89 @@
 }
 
 body{
-
     background:#f8dfe7;
-
     display:flex;
-
     justify-content:center;
-
     padding:20px;
-
 }
 
 .mailbox{
-
     position:relative;
-
     width:min(100%,1366px);
-
 }
 
 .mailbox img{
-
     width:100%;
-
     display:block;
-
     border-radius:15px;
-
     box-shadow:0 20px 40px rgba(0,0,0,.15);
-
 }
+
+/* ===========================
+   Clickable Envelopes
+   =========================== */
 
 .hotspot{
     position:absolute;
-    background:transparent;
+    background:rgba(255,0,0,0.25); /* TEMPORARY - so we can see the boxes */
     border:none;
     cursor:pointer;
+    transition:0.2s;
+}
 
-    /* Uncomment this while testing */
-    /* background:red;
-    opacity:.25; */
+.hotspot:hover{
+    background:rgba(255,0,0,0.45);
+}
+
+/* ==========
+   ROW 1
+   ========== */
+
+#letter1{
+    left:4.8%;
+    top:26.9%;
+    width:13%;
+    height:7%;
+}
+
+#letter2{
+    left:23.3%;
+    top:26.9%;
+    width:13%;
+    height:7%;
+}
+
+#letter3{
+    left:41.8%;
+    top:26.9%;
+    width:13%;
+    height:7%;
+}
+
+#letter4{
+    left:60.2%;
+    top:26.9%;
+    width:13%;
+    height:7%;
+}
+
+#letter5{
+    left:78.7%;
+    top:26.9%;
+    width:13%;
+    height:7%;
+}
+
+/* ==========
+   PLACEHOLDERS
+   (Rows 2–6)
+   We'll position these next.
+   ========== */
+
+#letter6,
+#letter7,
+#letter8,
+#letter9,
+#letter10{
+    display:none;
 }
