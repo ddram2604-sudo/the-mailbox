@@ -130,7 +130,7 @@ const letters = {
     
     letter30:{ title: "Open when you forget how much I love you", 
               text: "Write your letter here..."
-    },
+    }
 
 };
 
