@@ -145,7 +145,7 @@ document.querySelectorAll(".hotspot").forEach(button => {
         if (!data) return;
 
         title.textContent = data.title;
-        content.textContent = data.text;
+        content.innerHTML = data.text;
 
         popup.classList.add("show");
         popup.style.display = "flex";
