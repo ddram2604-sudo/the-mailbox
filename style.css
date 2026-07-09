@@ -35,3 +35,14 @@ body{
     box-shadow:0 20px 40px rgba(0,0,0,.15);
 
 }
+
+.hotspot{
+    position:absolute;
+    background:transparent;
+    border:none;
+    cursor:pointer;
+
+    /* Uncomment this while testing */
+    /* background:red;
+    opacity:.25; */
+}
