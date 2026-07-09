@@ -147,8 +147,7 @@ document.querySelectorAll(".hotspot").forEach(button => {
         title.textContent = data.title;
         content.innerHTML = data.text;
 
-        popup.classList.add("show");
-        popup.style.display = "flex";
+      popup.classList.add("show"); 
 
     });
 
@@ -162,7 +161,7 @@ closeBtn.addEventListener("click", () => {
 
     setTimeout(() => {
 
-        popup.style.display = "none";
+        popup.classList.remove("show");
 
     }, 200);
 
@@ -177,9 +176,7 @@ popup.addEventListener("click", (e) => {
         popup.classList.remove("show");
 
         setTimeout(() => {
-
-            popup.style.display = "none";
-
+popup.classList.remove("show");
         }, 200);
 
     }
@@ -196,7 +193,7 @@ document.addEventListener("keydown", (e) => {
 
         setTimeout(() => {
 
-            popup.style.display = "none";
+           popup.classList.remove("show");
 
         }, 200);
 
