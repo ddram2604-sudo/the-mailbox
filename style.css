@@ -34,8 +34,7 @@ body{
 
 .hotspot{
     position:absolute;
-    background:red;
-    opacity:.3;
+    background:transparent;
     border:none;
     cursor:pointer;
     z-index:5;
@@ -234,35 +233,35 @@ body{
 
 #letter26{
     left:9%;
-    top:96.5%;
+    top:90%;
     width:11%;
     height:6%;
 }
 
 #letter27{
     left:27%;
-    top:96.5%;
+    top:90%;
     width:11%;
     height:6%;
 }
 
 #letter28{
-    left:45%;
-    top:96.5%;
+    left:44%;
+    top:90%;
     width:11%;
     height:6%;
 }
 
 #letter29{
-    left:63%;
-    top:96.5%;
+    left:60%;
+    top:90%;
     width:11%;
     height:6%;
 }
 
 #letter30{
-    left:81%;
-    top:96.5%;
+    left:79%;
+    top:90%;
     width:11%;
     height:6%;
 }
