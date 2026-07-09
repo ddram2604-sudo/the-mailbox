@@ -133,7 +133,6 @@ const letters = {
     },
 
 };
-};
 
 // ---------- Open Letter ----------
 
