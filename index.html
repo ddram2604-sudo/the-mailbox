@@ -1,33 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Mailbox</title>
 
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Our Mailbox</title>
-
-<link rel="stylesheet" href="style.css">
-
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <div class="mailbox">
 
-    <img src="home.png" alt="Our Mailbox" usemap="#mailmap">
+    <img src="home.png" alt="Our Mailbox">
 
-    <map name="mailmap">
-
-        <area
-            id="hugArea"
-            shape="rect"
-            coords="245,655,455,835"
-            href="#">
-
-    </map>
+    <!-- Click Areas -->
+    <button class="hotspot" id="letter1" aria-label="First Getting This"></button>
+    <button class="hotspot" id="letter2" aria-label="Needing a Hug"></button>
+    <button class="hotspot" id="letter3" aria-label="Sick"></button>
+    <button class="hotspot" id="letter4" aria-label="Feeling Nostalgic"></button>
+    <button class="hotspot" id="letter5" aria-label="Missing My Voice"></button>
+    <button class="hotspot" id="letter6"></button>
+    <button class="hotspot" id="letter7"></button>
+    <button class="hotspot" id="letter8"></button>
+    <button class="hotspot" id="letter9"></button>
+    <button class="hotspot" id="letter10"></button>
+    <button class="hotspot" id="letter11"></button>
+    <button class="hotspot" id="letter12"></button>
+    <button class="hotspot" id="letter13"></button>
+    <button class="hotspot" id="letter14"></button>
+    <button class="hotspot" id="letter15"></button>
+    <button class="hotspot" id="letter16"></button>
+    <button class="hotspot" id="letter17"></button>
+    <button class="hotspot" id="letter18"></button>
+    <button class="hotspot" id="letter19"></button>
+    <button class="hotspot" id="letter20"></button>
+    <button class="hotspot" id="letter21"></button>
+    <button class="hotspot" id="letter22"></button>
+    <button class="hotspot" id="letter23"></button>
+    <button class="hotspot" id="letter24"></button>
+    <button class="hotspot" id="letter25"></button>
+    <button class="hotspot" id="letter26"></button>
+    <button class="hotspot" id="letter27"></button>
+    <button class="hotspot" id="letter28"></button>
+    <button class="hotspot" id="letter29"></button>
+    <button class="hotspot" id="letter30"></button>
 
 </div>
 
@@ -35,13 +51,15 @@
 
     <div class="envelope">
 
+        <button id="close">&times;</button>
+
         <div class="letter">
 
-            <h2>Open when you're needing a hug</h2>
+            <h2 id="letterTitle">Letter Title</h2>
 
-            <p>
-                This is where your beautiful letter will go.
-            </p>
+            <div id="letterContent">
+                Your letter will appear here.
+            </div>
 
         </div>
 
@@ -52,5 +70,4 @@
 <script src="script.js"></script>
 
 </body>
-
 </html>
