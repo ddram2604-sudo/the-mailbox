@@ -40,8 +40,13 @@ body{
     z-index:5;
 }
 
+.mailbox img{
+    transition:transform .25s ease;
+}
+
 .hotspot:hover{
     outline:2px solid rgba(255,255,255,.6); /* remove later */
+    transform:scale(1.05);
 }
 
 /* ---------- ROW 1 ---------- */
@@ -294,11 +299,6 @@ body{
     visibility:visible;
 }
 
-#popup.show{
-    opacity:1;
-    visibility:visible;
-}
-
 .envelope{
 
     width:700px;
@@ -312,14 +312,20 @@ body{
 
     box-shadow:0 25px 60px rgba(0,0,0,.35);
 
-    transform:translateY(40px) scale(.85);
+    transform:translateY(60px) scale(.75) rotate(-2deg);
 
-    transition:.45s ease;
+    opacity:0;
+
+    transition:
+        transform .55s cubic-bezier(.2,.8,.2,1),
+        opacity .45s ease;
 }
 
 #popup.show .envelope{
 
-    transform:translateY(0) scale(1);
+    transform:translateY(0) scale(1) rotate(0deg);
+
+    opacity:1;
 
 }
 
@@ -333,11 +339,14 @@ body{
 
     min-height:450px;
 
-    transform:translateY(80px);
+    transform:translateY(100px);
 
     opacity:0;
 
-    transition:.5s ease .25s;
+    transition:
+        transform .65s cubic-bezier(.2,.8,.2,1) .15s,
+        opacity .45s ease .15s;
+
 }
 
 #popup.show .letter{
