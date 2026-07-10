@@ -236,10 +236,11 @@ document.querySelectorAll(".hotspot").forEach(button => {
 
         if (!data) return;
 
-        title.textContent = data.title;
-        content.innerHTML = data.text;
+      title.textContent = data.title;
 
-      popup.classList.add("show"); 
+popup.classList.add("show");
+
+typeWriter(data.text);
 
     });
 
@@ -273,5 +274,54 @@ document.addEventListener("keydown", (e) => {
         popup.classList.remove("show");
 
     }
+
+});
+
+// ---------- Typewriter ----------
+
+let typing = false;
+let typingInterval;
+
+function typeWriter(text){
+
+    clearInterval(typingInterval);
+
+    typing = true;
+
+    content.innerHTML = "";
+
+    let i = 0;
+
+    typingInterval = setInterval(() => {
+
+        content.innerHTML += text.charAt(i);
+
+        i++;
+
+        if(i >= text.length){
+
+            clearInterval(typingInterval);
+
+            typing = false;
+
+        }
+
+    },20);
+
+}
+
+// Click while typing = finish instantly
+
+content.addEventListener("click", () => {
+
+    if(!typing) return;
+
+    clearInterval(typingInterval);
+
+    typing = false;
+
+    content.innerHTML = letters[
+        document.querySelector(".hotspot:focus")?.id
+    ]?.text || content.innerHTML;
 
 });
