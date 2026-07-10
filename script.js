@@ -85,7 +85,7 @@ Write your letter here...
    },
 
     letter11:{ title: "Open when you're having a bad day ", 
-              text: text: `
+              text: `
 Write your letter here...
 
 `
