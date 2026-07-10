@@ -12,7 +12,10 @@ const letters = {
     letter1: {
         title: "Open when you're first getting this",
         text: `
-Write your letter here...
+Dear Arthur,
+Hi my love! So here it is, this project I've worked so hard on just for you. 
+I missed the soft intimacy and tradition we created with our letters. 
+I wanted to create our own lil world fulled with our love.
 
 `
     },
