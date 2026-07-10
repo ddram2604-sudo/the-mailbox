@@ -310,18 +310,3 @@ function typeWriter(text){
 
 }
 
-// Click while typing = finish instantly
-
-content.addEventListener("click", () => {
-
-    if(!typing) return;
-
-    clearInterval(typingInterval);
-
-    typing = false;
-
-    content.innerHTML = letters[
-        document.querySelector(".hotspot:focus")?.id
-    ]?.text || content.innerHTML;
-
-});
