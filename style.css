@@ -273,7 +273,8 @@ body{
 #popup{
     position:fixed;
     inset:0;
-    background:rgba(0,0,0,.45);
+
+    background:rgba(0,0,0,0);
 
     display:flex;
     justify-content:center;
@@ -288,6 +289,12 @@ body{
 }
 
 #popup.show{
+    background:rgba(0,0,0,.55);
+    opacity:1;
+    visibility:visible;
+}
+
+#popup.show{
     opacity:1;
     visibility:visible;
 }
@@ -297,21 +304,23 @@ body{
     width:700px;
     max-width:90%;
 
-    background:#f4dddd;
+    background:#f2d7d7;
 
     border-radius:18px;
 
-    padding:20px;
+    padding:18px;
 
-    box-shadow:0 25px 60px rgba(0,0,0,.3);
+    box-shadow:0 25px 60px rgba(0,0,0,.35);
 
-    transform:scale(.75);
+    transform:translateY(40px) scale(.85);
 
-    transition:.35s ease;
+    transition:.45s ease;
 }
 
 #popup.show .envelope{
-    transform:scale(1);
+
+    transform:translateY(0) scale(1);
+
 }
 
 .letter{
