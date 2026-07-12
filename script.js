@@ -138,6 +138,7 @@ Write your letter here...
     letter18:{ title: "Open when you're happy",
              text: `
 -Dear Arthur 
+
 	Hii there smileyy!! so happy so adorable! 
     This is so strange writing to you , well future you and having 0 context....
     It's giving time travelling inter-dimensionally vibes { I'm a pro in this }.
