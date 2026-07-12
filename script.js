@@ -137,8 +137,20 @@ Write your letter here...
     
     letter18:{ title: "Open when you're happy",
              text: `
-Write your letter here...
+-Dear Arthur 
+	Hii there smileyy!! so happy so adorable! 
+    This is so strange writing to you , well future you and having 0 context....
+    It's giving time travelling inter-dimensionally vibes { I'm a pro in this }.
+    All I can tell you is how I feel about this glorious feeling (you feeling happy ) as I feel it right as Present Dani { Past Dani - to you }.
+    Well, sir I'm sitting here gleaming from ear to ear because I'm simply just imagining you just smiling and experiencing joy. 
+    I believe my heart is full right now. I don't need to know why, what caused such a good mood right now.
+    I'm just grateful that in this moment and everything that led up to it. 
+    I pray that it stays just like this because I know that across all the dimensions every version of me {past, present and future} want the same thing.
+    Just to see you happy and winning.
+	I love you truly, my champion.
 
+    xoxo
+-Your Cindy
 `
     },
     
