@@ -15,23 +15,96 @@ const letters = {
 Hi my love! So here it is, this project I've worked so hard on just for you. 
 I missed the soft intimacy and tradition we created with our letters. 
 I wanted to create our own lil world fulled with our love.
+I really hope you love it.
 
+xoxo 
+-Your Cindy
 `
     },
 
     letter2: {
         title: "Open when you're needing a hug",
        text: `
-Write your letter here...
+	   Dear Arthur 
+DON'T THINK IM CRAZY BUT get comfy for a second (or just take a deep breath) and pretend
+I'm wrapping my arms around you.
+I'm not going anywhere just yet.
+You don't have to explain why you opened this letter.
+Maybe you know exactly why, maybe you don't. 
+Either way, you deserve a hug.
+If I were with you right now,
+I'd probably squeeze you a little too tightly with all the might and strength my body has
+( which is more than like an army) I'd laugh, absolutely refuse to let go of you.
+I really wish I could do that.
+So instead, imagine me here.
+My head resting against you.
+Everything quiet. 
+Just... us.
+I hope you know that you're incredibly easy to care about. 
+You never have to earn my affection or wait until you're at your best to deserve it. 
+Whether you're happy, tired, excited, grumpy, overwhelmed, or just feeling a little off, 
+I'd still want to hug you exactly the same. 
+Sometimes I think hugs say all the things words struggle to.
+"I'm here."
+"I've got you."
+"You can stay a little longer."
+"I missed you."
+"I love you."
+So if this letter can do even a tiny bit of that until I get to hug you for real, 
+then it's doing its job.
+I'm sending you the biggest hug I possibly can through this piece of paper. 
+YES Its an upsy hug !
+Don't let go too quickly.
 
+xoxo 
+-Your Cindy
 `
     },
 
     letter3: {
         title: "Open when you're sick",
-        text: `
-Write your letter here...
+        text: ` Dear Arthur 
+Hey, you.
+First things first...
 
+I'm sorry you're not feeling well. If I could teleport to you right now,
+I'd be at your door with a blanket, water, soup, and probably enough meds to
+survive a zombie apocalypse.
+I bet you miss my bossy mom mode now.
+Instead, you're stuck with this letter.
+So here's what I need you to do 
+Drink your water.
+Yes, *actual* water.
+Take your medicine if you're supposed to.(text me I will get you what you need)
+Get some rest.
+
+I know being sick is boring and annoying, and I also know you're probably going to tell yourself,
+"I'm fine," five minutes before coughing up a lung. 
+Please don't be stubborn. Let your body do its thing.
+
+I wish I could be there to check your temperature, make you something warm, complain that
+you're impossible to look after,ask you a million times if you took your meds and 
+secretly enjoy taking care of you anyway.
+
+I'd probably BORROW with no intent of return or "steal" as you put it one of your hoodies 
+to keep warm while we watched absolutely FIRE cartoon. 
+I'd make fun of how dramatic you are when you're sick... even though 
+I'd still be asking every ten minutes if you needed anything.
+
+So, until I can do all of that in person, let this be your reminder that
+someone is thinking about you and wishing they could make today a little easier.
+
+Be patient with yourself. You don't have to bounce back immediately. 
+Your only job right now is to get better.
+
+And when you're finally feeling like yourself again, I fully expect an update saying, 
+"Guess who's alive?"
+
+I'll be waiting.
+
+Get well soon, my favorite patient
+xoxo
+-Your Cindy
 `
     },
 
@@ -39,7 +112,8 @@ Write your letter here...
         title: "Open when you're feeling nostalgic",
         text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
 
@@ -47,42 +121,48 @@ Write your letter here...
         title: "Open when you're missing my voice",
         text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
 
     letter6: { title: "Open when you're struggling to sleep", 
               text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
      },
     
     letter7: { title: "Open when you're having a good day ",
              text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
      },
     
     letter8: { title: "Open when you're feeling lonely",
             text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
     
     letter9: { title: "Open when it's the 30th of September ",
             text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
     
     letter10:{ title: "Open when you're needing a giggle", 
              text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
    },
 
