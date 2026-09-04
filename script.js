@@ -232,51 +232,208 @@ xoxo
    },
 
     letter11:{ title: "Open when you're having a bad day ", 
-              text: `
-Write your letter here...
+              text: ` Dear Arthur
+
+Hi love.
+
+So... you're having a bad day.
+
+I know what it's like to have those days where everything just feels a little heavier than it should. I've had plenty of them, and you've seen me through a lot of mine.
+
+You've been there for me through some really shitty days, and I don't think I say thank you for that enough.
+
+I wish I could give you one of those big, stupid hugs right now. The kind where I don't even say anything, I just hold you until everything feels a little less shit.
+
+Whatever happened today doesn't have to define the rest of it. You don't have to fix everything right now. You can have a bad day and still be okay.
+
+So be gentle with yourself today.
+
+And remember that just because today is bad, doesn't mean tomorrow will be.
+
+I'm always rooting for you, even on the days where you don't feel like rooting for yourself.
+
+xoxo 
+-Your Cindy
 
 `
     },
     
     letter12:{ title: "Open when you're bored", 
-             text: `
-Write your letter here...
+             text: ` Dear Arthur
+
+Hi handsome.
+
+You're bored?
+
+Okay, luckily for you, you've opened the correct letter.
+
+First things first, text me.
+
+Seriously. Send me a random thought, a stupid picture, tell me something I don't need to know, complain about your day, anything. I will entertain you.
+
+I can be your personal source of nonsense for the next however long you need.
+
+We could argue about something completely pointless, send each other ridiculous videos, play a game, or just talk absolute shit until one of us gets tired.
+
+So don't sit there being bored when you have me.
+
+Go on.
+
+Text me.
+
+xoxo 
+-Your Cindy
 
 `
     },
     
     letter13:{ title: "Open when you're needing motivation", 
-              text: `
-Write your letter here...
+              text: ` Dear Arthur
+
+My love,
+
+I know sometimes you just need someone to remind you that you can do it.
+
+So here I am.
+
+Whatever you're trying to do right now, just take it one step at a time. You don't have to do everything perfectly and you don't have to have everything figured out before you start.
+
+You've done difficult things before. You've gotten through things you didn't think you would. Don't forget that.
+
+I'm proud of you for trying, even when you don't feel motivated.
+
+So get up, drink some water, put your big boy pants on and go do the thing.
+
+And if you need someone to cheer you on, you already know where I am.
+
+Now go make me proud.
+
+xoxo 
+-Your Cindy
 
 `         
     },
     
     letter14:{ title: "Open when you're needing some love", 
              text: `
-Write your letter here...
+Dear Arthur
+
+Hi love.
+
+So you need a little extra love today.
+
+Well, unfortunately for you, you're stuck with me.
+
+I hope you know just how loved you are. Not only when you're happy or when everything is going right, but on the messy days too. You don't have to earn love by being perfect.
+
+I'd give you the biggest hug right now if I could. I'd probably squeeze you way too hard, refuse to let go and then complain that you're annoying me while secretly enjoying every second of it.
+
+You deserve to feel loved.
+
+You deserve to feel wanted.
+
+And you deserve to know that there is someone out here thinking about you and wishing they could be beside you right now.
+
+So consider this letter a little reminder from me:
+
+I love you.
+
+Even when I'm not there to say it in person.
+xoxo 
+-Your Cindy
 
 `
     },
     
     letter15:{ title: "Open when you're thinking about the future",
-              text: `
-Write your letter here...
+              text: ` 
+
+Dear Arthur
+
+Hi love.
+
+So you're thinking about the future.
+
+I think about it too sometimes. And honestly, there is so much uncertainty in it. We don't know where we'll be, what we'll be doing, what life will look like, or how much is going to change between now and then.
+
+That's a little scary, but it's also kind of exciting.
+
+There are so many things we haven't experienced yet. So many places we haven't been, things we haven't done, and memories we haven't even made.
+
+I don't know exactly what the future looks like for either of us, but I really, really hope I'm somewhere in it.
+
+I hope there are still mornings where I get to annoy you, nights where we stay up talking about absolutely nothing, and little moments that remind us how far we've come.
+
+Whatever happens, I hope life is kind to you.
+
+And selfishly, I hope I get to be there for a lot of it.
+
+
+xoxo 
+-Your Cindy
 
 `
     },
     
     letter16:{ title: "Open when you're feeling like the distance is too much ",
-             text: `
-Write your letter here...
+             text: ` Dear Arthur
+
+My love,
+
+I know this feeling.
+
+I feel the distance all the freaking time.
+
+Sometimes I just wish I could skip the miles between us and have you right here. No waiting for messages, no counting down until we see each other, no wishing you were beside me when something happens.
+
+Just you. Here.
+
+I hate that sometimes I have something I want to tell you and my first thought is how much easier it would be if I could just turn around and tell you in person.
+
+But even when the distance feels huge, it doesn't make you any less important to me.
+
+We're still here. We're still us.
+
+So on the days where the distance feels unbearable, just remember that I miss you too.
+
+And one day, hopefully, we'll look back at all these miles and wonder how we ever managed them.
+
+Until then, come here mentally so I can give you a really big hug.
+xoxo 
+-Your Cindy
 
 `
     },
     
     letter17:{ title: "Open when you're feeling stressed", 
-             text: `
-Write your letter here...
+			  text: ` Dear Arthur
 
+Hi you.
+
+First things first, breathe.
+
+I know your brain is probably doing that thing where it takes one problem and somehow turns it into seventeen.
+
+You don't have to solve everything right now.
+
+Whatever is stressing you out can be broken down. One thing at a time. One problem at a time. One breath at a time.
+
+Please remember that you are allowed to take a break. You are allowed to rest. You do not have to be productive every second of the day to be doing enough.
+
+If I was there, I'd probably tell you to stop overthinking, make you drink some water, and force you to sit down for five minutes.
+
+And yes, I'd probably annoy you while doing it.
+
+So unclench your jaw, drop your shoulders, take a breath, and deal with the next thing.
+
+Not everything.
+
+Just the next thing.
+
+You've got this, love.
+
+xoxo
+-Your Cindy
 `
     },
     
@@ -302,7 +459,33 @@ Write your letter here...
     
     letter19:{ title: "Open when you're feeling lovey",
              text: `
-Write your letter here...
+Dear Arthur
+
+Hi my love.
+
+Ohhhh, so you're feeling lovey-dovey.
+
+I knew you'd come around eventually.
+
+If you're sitting there thinking about me right now, just know that I'm probably thinking about you too.
+
+I hope you're smiling a little while reading this because that's exactly what I want.
+
+I want you to picture me beside you, probably cuddling into you, stealing your warmth, annoying you every five seconds and then pretending I didn't do anything.
+
+I miss being close to you.
+
+I miss the little things. The stupid conversations, the random touches, laughing at things that aren't even funny, and just being together without having to think about it.
+
+So if you're feeling extra mushy right now, you are absolutely allowed to be.
+
+Think about me.
+
+Miss me a little.
+
+And just know that somewhere, your girl is probably doing the exact same thing.
+xoxo
+-Your Cindy
 
 `
     },
@@ -328,7 +511,7 @@ Write your letter here...
 `
     },  
     
-    letter23:{ title: "Open when you miss my voice", 
+    letter23:{ title: "Open when you miss my voice pt 2 ", 
              text: `
 Write your letter here...
 
