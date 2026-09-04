@@ -127,24 +127,89 @@ xoxo
     },
 
     letter6: { title: "Open when you're struggling to sleep", 
-              text: `
-Write your letter here...
+              text: ` Dear Arthur
+
+Hi love.
+
+So you're starting to miss sleep.
+
+I know how much you love your sleep, so I'm taking this very seriously.
+I wish I could just teleport to you and make you get into bed properly.
+I know sometimes you're tired, but your brain just won't switch off.
+You think about everything, overthink everything, and somehow convince yourself that 2am is the perfect time to start solving every problem you've ever had.
+
+Don't.
+
+You don't need to figure everything out tonight. Whatever is waiting for you tomorrow can wait until tomorrow.
+
+Just get comfortable, put your phone down, close your eyes and let yourself rest.
+
+And if I was there, I'd probably tell you to stop fighting sleep while annoying you until you finally gave in. I'd steal some of your blanket, complain that you're taking up too much space and then secretly make sure you're actually comfortable.
+
+So go to sleep, silly.
+
+You can deal with the world again when the sun comes up.
+
+For now, just rest.
+
 xoxo 
 -Your Cindy
 `
      },
     
     letter7: { title: "Open when you're having a good day ",
-             text: `
-Write your letter here...
+             text: `Dear Arthur
+
+Hi my love.
+
+First of all, I'm so happy you're having a good day.
+
+I wish I could be there with you for it, but even when I'm not, I still want to know all about it. Tell me what happened. Tell me what made you smile. Tell me everything that made today feel good.
+
+I'm genuinely happy when you're happy, and I hope you know that.
+
+Sometimes I wish I could just be there beside you for the little moments too, even if we're doing absolutely nothing. I'd probably make you laugh, annoy you a little and then act innocent when you complain about it.
+
+So enjoy your day.
+
+You deserve good days. You deserve moments that make you forget about everything else for a little while.
+
+And even if I'm not there beside you, just know I'm somewhere smiling because you're having a good day too.
+
+Now go enjoy it properly.
+
+
 xoxo 
 -Your Cindy
 `
      },
     
     letter8: { title: "Open when you're feeling lonely",
-            text: `
-Write your letter here...
+            text: `Dear Arthur
+
+Hi love.
+
+I'm sorry you're feeling lonely.
+
+I know that feeling more than I'd probably like to admit. I've had days where I've felt like I'm surrounded by people and still somehow completely alone, so I understand how heavy it can feel.
+
+I never want you to feel like you have to sit with that feeling by yourself.
+
+Even when I'm not physically there, you're still someone I carry with me. You're in my thoughts, in little things that remind me of you, and in my heart more than you probably realise.
+
+So if you're having one of those days, please remember that you're loved. You're wanted. You're thought about.
+
+And if I could be there right now, I'd probably sit beside you, steal some of your space, complain that you're being dramatic and then stay there until you felt a little less alone.
+
+You don't have to be okay every second.
+
+Just take it one moment at a time.
+
+I'm here, even when I'm not there.
+
+And you're never as alone as you think you are.
+
+
 xoxo 
 -Your Cindy
 `
