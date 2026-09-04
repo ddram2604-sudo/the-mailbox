@@ -14,8 +14,9 @@ const letters = {
         text: `Dear Arthur,
 Hi my love! So here it is, this project I've worked so hard on just for you. 
 I missed the soft intimacy and tradition we created with our letters. 
-I wanted to create our own lil world fulled with our love.
-I really hope you love it.
+I wanted to create our own lil world filled with our love, 
+our memories and all the little things that remind me of us.
+I really, really hope you love it.
 
 xoxo 
 -Your Cindy
