@@ -1180,3 +1180,26 @@ function typeWriter(text){
 
 }
 
+// ---------- Background Music ----------
+
+const music = document.getElementById("backgroundMusic");
+const musicButton = document.getElementById("musicButton");
+
+musicButton.addEventListener("click", () => {
+
+    if (music.paused) {
+
+        music.play();
+        musicButton.textContent = "♫";
+        musicButton.setAttribute("aria-label", "Pause music");
+
+    } else {
+
+        music.pause();
+        musicButton.textContent = "♪";
+        musicButton.setAttribute("aria-label", "Play music");
+
+    }
+
+});
+
