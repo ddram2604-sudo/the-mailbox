@@ -118,7 +118,7 @@ xoxo
     },
 
     letter5: {
-        title: "Open when you're missing my voice",
+        title: "Open when you're feeling sad ",
         text: `
 Write your letter here...
 xoxo 
@@ -491,27 +491,106 @@ xoxo
     },
     
     letter20:{ title: "Open when we've had a fight ",
-             text: `
-Write your letter here...
+             text: `Dear Arthur
 
+Hi love.
+
+So... we've had a fight.
+
+I'm sure neither of us is feeling particularly lovely right now, but I don't want you to forget that being upset with each other doesn't suddenly erase everything between us.
+
+We're allowed to disagree. We're allowed to get frustrated. We're allowed to need a little space sometimes.
+
+But I never want us to forget that we're on the same side.
+
+I'm not going to pretend I'm always right, because let's be honest... sometimes I'm very stubborn. And I'm sure you can say the same about yourself.
+
+So take a breath. Cool down. Think about what actually matters.
+
+I don't want us fighting against each other. I want us figuring things out together.
+
+Whatever happened, I still love you.
+
+And when you're ready, come talk to me.
+
+We'll figure it out.
+xoxo 
+- Your Cindy 
 `
     },
     
     letter21:{ title: "Open when you need a pep talk",
              text: `
-Write your letter here...
+Dear Arthur
 
+Hi handsome.
+
+Okay, listen to me.
+
+You are capable of so much more than you give yourself credit for.
+
+I know sometimes you get stuck in your own head and start convincing yourself that you can't do something before you've even tried.
+
+Stop that.
+
+You've made it through every bad day you've had so far. You've figured things out before. You've learned, grown, messed up, tried again and kept going.
+
+You don't need to be perfect.
+
+You just need to keep moving.
+
+So whatever you're dealing with right now, take it one step at a time.
+
+And if nobody has told you today, I'm proud of you.
+
+Now go do the thing.
+
+Yes, I'm bossing you around.
+
+You're welcome.
+xoxo
+-Your Cindy 
 `
     },
     
     letter22:{ title: "Open when you need peace", 
               text: `
-Write your letter here...
+Dear Arthur
+
+My love,
+
+If you're reading this, I hope you can take a second to slow everything down.
+
+You don't have to answer every question right now.
+You don't have to solve every problem tonight.
+You don't have to carry everything at once.
+
+Just breathe.
+
+Let yourself have a quiet moment without feeling like you need to be doing something.
+
+Close your eyes for a little while. Put your phone down. Get comfortable.
+
+Imagine that I'm sitting beside you, not saying anything, just being there.
+
+Sometimes you don't need advice.
+Sometimes you just need someone beside you.
+
+So let this be your little reminder that you can rest.
+
+The world will still be there when you wake up.
+
+For now, just be still.
+
+You've got nothing to prove right now.
+To me, you're more than enough.
+xoxo 
+-Your Cindy 
 
 `
     },  
     
-    letter23:{ title: "Open when you miss my voice pt 2 ", 
+    letter23:{ title: "Open when you miss my voice ", 
              text: `
 Write your letter here...
 
@@ -519,29 +598,135 @@ Write your letter here...
     },
     
     letter24:{ title: "Open when you're on a study break",
-             text: `
-Write your letter here...
+             text: ` ### Open when you're on a study break
+
+Dear Arthur
+
+Hi love.
+
+So you've finally taken a study break.
+
+First of all, I'm proud of you for actually taking one because I know that degree is probably trying to kill you slowly.
+
+I know studying can get really stressful, especially when you have a million things to remember and it feels like your brain has simply decided that it knows enough.
+
+So for the next few minutes, you are NOT allowed to think about your degree.
+
+Drink some water.
+Eat something.
+Stretch.
+Look away from the screen.
+
+And most importantly, remember that you are more than your grades and more than how productive you were today.
+
+You can have a break without feeling guilty about it.
+
+And if I was there, I'd probably distract you even more, yk I'm a good stress reliever.
+
+So enjoy your little break, my love.
+
+Then go back and kick that degree's ass.
+xoxo 
+-Your Cindy 
+
 
 `
     },
     
     letter25:{ title: "Open when you're feeling doubtful", 
-              text: `
-Write your letter here...
+              text: ` ### Open when you're feeling doubtful
 
+Dear Arthur
+
+My love,
+
+I know sometimes you doubt yourself.
+
+You start wondering if you're doing enough, if you're good enough, if you're making the right decisions.
+
+So let me remind you of something.
+
+You don't have to have everything figured out right now.
+
+You're learning.
+You're growing.
+You're becoming the person you're supposed to be.
+
+Don't let one bad day make you question everything you've already accomplished.
+
+I believe in you.
+
+Even when you don't believe in yourself, I'll happily believe for the both of us.
+
+So keep going.
+
+You are doing better than you think you are.
+
+
+xoxo 
+-Your Cindy 
 `
     },
 
     letter26:{ title: "Open when your heart tells you to",
-             text: `
-Write your letter here...
+             text: ` ### Open when your heart tells you to...
+
+Dear Arthur
+
+Hi love.
+
+Well...
+
+If your heart brought you here, I'm guessing there's a reason.
+
+So listen to it.
+
+Sometimes your heart knows what you need before your brain has had time to overthink it.
+
+Maybe you miss me.
+Maybe you want to tell me something.
+Maybe you just need to feel close to me for a little while.
+
+Whatever it is, don't ignore it.
+
+And if what your heart is telling you is that you need me...
+
+You know where I am.
+
+
 
 `
     },
     
     letter27:{ title: "Open when you had a dream of me", 
-              text: `
-Write your letter here...
+              text: ` ### Open when you dream of me
+
+Dear Arthur
+
+Hi my love.
+
+So I made it into your dreams?
+
+I knew I'd eventually make my way in there. 😭
+
+I hope dream-me was nice to you.
+
+Or maybe I was annoying you like I usually do.
+
+Either way, I hope you woke up with a little smile.
+
+There's something really sweet about knowing that, even while you're asleep, some little part of your brain decided to bring me along.
+
+I wish I could actually wake up beside you after one of those dreams and hear exactly what happened.
+
+So tell me about it when you can.
+
+And if you go back to sleep tonight, maybe I'll make another appearance.
+
+Hopefully I'm behaving this time.
+
+xoxo 
+-Your Cindy
 
 `
     },
@@ -549,21 +734,23 @@ Write your letter here...
     letter28:{ title: "Open when you want to remember how we started",
               text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
     
     letter29:{ title: "Open when you're looking at the moon", 
              text: `
 Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     },
     
     letter30:{ title: "Open when you forget how much I love you", 
              text: `
-Write your letter here...
-
+xoxo 
+-Your Cindy
 `
     }
 
