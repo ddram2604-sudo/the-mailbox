@@ -279,6 +279,7 @@ body{
     position:fixed;
     inset:0;
 
+    padding:20px;
     background:rgba(0,0,0,0);
 
     display:flex;
@@ -338,6 +339,8 @@ body{
     padding:50px;
 
     min-height:450px;
+    max-height:80vh;
+    overflow-y:auto;
 
     transform-origin:top center;
 
