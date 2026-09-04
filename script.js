@@ -286,16 +286,102 @@ xoxo
     },
     
     letter9: { title: "Open when it's the 30th of September ",
-            text: `
-Write your letter here...
+            text: ` Dear Arthur
+
+Hi my love.
+
+It's our second 309.
+
+And I can't help but think about that day at Canal Walk.
+
+We were so excited to finally go see Final Destination. We had the whole day planned out, and you know me... I LOVE a plan. I'm very A-type. I like knowing what's happening, where we're going, what we're doing and how everything is supposed to work.
+
+And then... we didn't even see the movie. 😭
+
+Our plans didn't work out the way we thought they would, but somehow we still ended up having such a good day.
+
+We went to Bossa, had our little moments, that waitress, my camera, and then there was our table.
+
+309.
+
+That little number ended up meaning so much more than it ever should have.
+
+It's the first picture we ever took together on my Polaroid. I still have it, and every time I see it, I'm reminded of that day, that table, and everything that came after.
+
+And then 309 became something else.
+
+It's the day we said we were going to get hitched. The day we decided that one day, that would be our marriage day.
+
+I think that's what makes 309 so special to me.
+
+Because it came from a day that didn't even go according to plan.
+
+I had a plan. We had a plan. We were meant to see a movie, and we didn't. But somehow, in the middle of everything not going the way we expected, we still made our own little memory.
+
+And I think that's what 309 will always remind me of.
+
+That even in this big, scary world where things are constantly changing and plans don't always work out, somehow we always find a way to make our own little world.
+
+A little place that belongs to us.
+
+Nobody else really knows what 309 means, and I kind of love that.
+
+It's something small.
+Something silly.
+Something special.
+
+Our own little secret.
+
+And maybe that's what I love most about us. We don't need everything to go perfectly to have a good time. Sometimes the plans fall apart, and somehow we still find our way back to each other.
+
+So on our second 309, I'll think about that little table number, that Polaroid, that day at Canal Walk, and how something so small ended up becoming something so important to us.
+
+And I hope we have many more days like that.
+
+More plans that don't go according to plan.
+More random adventures.
+More little worlds that belong only to us.
+
+And hopefully one day, we'll look back at that tiny 309 on our first Polaroid and know that it really was the beginning of something.
+
+Happy 309, my love.
+
+Our little day.
+Our little secret.
+Our little world.
+
+
 xoxo 
 -Your Cindy
 `
     },
     
     letter10:{ title: "Open when you're needing a giggle", 
-             text: `
-Write your letter here...
+             text: ` Dear Arthur
+
+Hi my love.
+
+You need a giggle?
+
+Well, lucky for you, you've come to the right place.
+
+I could tell you something funny, but realistically I'm probably the funniest thing in your life anyway. 😌
+
+Actually, don't take that seriously.
+
+But if you're having one of those days where everything feels a little too serious, I need you to stop for a second and remember that somewhere out there is a girl who would absolutely make a fool of herself just to make you laugh.
+
+I'd probably make some stupid face, send you the dumbest picture I have, make fun of you for something completely random, or just start saying nonsense until you finally crack.
+
+So consider this your official reminder to smile.
+
+And if that didn't work...
+
+Text me.
+
+I'll figure something out.
+
+
 xoxo 
 -Your Cindy
 `
@@ -775,9 +861,7 @@ Dear Arthur
 
 Hi my love.
 
-So I made it into your dreams?
-
-I knew I'd eventually make my way in there. 😭
+So I'm officially the girl of your dreams huh? ( WAS I HOT? IN SAID DREAM )
 
 I hope dream-me was nice to you.
 
@@ -791,7 +875,7 @@ I wish I could actually wake up beside you after one of those dreams and hear ex
 
 So tell me about it when you can.
 
-And if you go back to sleep tonight, maybe I'll make another appearance.
+And if you go back to sleep tonight, maybe I'll make another appearance just to be a tease ( just how you like me ).
 
 Hopefully I'm behaving this time.
 
@@ -803,22 +887,207 @@ xoxo
     
     letter28:{ title: "Open when you want to remember how we started",
               text: `
-Write your letter here...
+Dear Arthur
+
+Hi my love.
+
+So you want to remember how we started.
+
+Okay... let's go all the way back.
+
+I remember that day so clearly.
+
+I wasn't sitting properly on the bench. I was sitting the wrong way, just kind of there, in the middle of the garden.
+
+And I remember you walking up.
+
+I watched you.
+
+I remember you coming over and sitting right next to me.
+
+You had been looking at me, and I remember noticing.
+
+And I remember thinking, “Oh my God... this is the first time we have ever actually interacted.”
+
+I can't remember what we were talking about for the life of me.
+
+But I remember looking down and telling you that I didn't like your socks and sandals. 😭
+
+And I started complaining about that, and somehow that became our first little interaction.
+
+It's funny how I don't remember the conversation, but I remember you.
+
+I remember being shy.
+I remember being nervous.
+I remember being scared.
+
+But I also remember being so drawn to you.
+
+And honestly... you did no work. 😭
+
+I genuinely feel like I did ALL the work.
+
+I was running around, going to see you, finding reasons to be around you, doing everything I could, while you were just sitting there being you.
+
+But somehow, somewhere in that garden, on that bench, something happened.
+
+Something just clicked.
+
+Two kids who had no idea what they were doing, sitting beside each other, too nervous to understand what was happening, and somehow starting something that would become this.
+
+And when I think about how we started, I don't think about some huge romantic moment.
+
+I think about you walking over.
+
+I think about watching you sit beside me.
+
+I think about looking at you and realising that this was the first time.
+
+The first interaction.
+
+The beginning.
+
+And that memory is so deeply engraved in my head that I could probably close my eyes and see it all again.
+
+Two kids in love, man.
+
+And somehow, that little moment became us.  I'm in tears here because whatever we are has come so far. And honestly I wouldn't change a thing because the story of us . SO PEAK.
 xoxo 
 -Your Cindy
 `
     },
     
     letter29:{ title: "Open when you're looking at the moon", 
-             text: `
-Write your letter here...
+             text: `Dear Arthur
+
+Hi my love.
+
+If you're looking at the moon right now, I hope you think of me.
+
+We've spent so many nights under her.
+
+So many nights looking up at the sky, talking about absolutely everything and nothing at the same time.
+
+I always used to look at the moon and say, “Arthur, isn't she so gorgeous?” (especially during departure) 
+
+I'd always tell you how beautiful she was.
+
+And every time, I'd turn to you , you'd be looking at me and you'd say something like, “Yeah, she is beautiful... but not as beautiful as you.”
+
+And I swear, those were some of the most romantic moments I've ever experienced.
+
+Because I would be staring at something I thought was so beautiful, and you'd somehow saw me in that same light.
+
+Now whenever I look at the moon, I can't help but think of you.
+
+I think about all those nights.
+All those conversations.
+All those little moments underneath the same sky.
+
+And I hope that whenever you look at her, somewhere in your mind, you think of me too.
+
+Because even when we're far apart, we're still looking at the same moon.
+
+And maybe that's why she feels a little different to me now.
+
+She's not just beautiful anymore.
+
+She's a reminder of us.
+
+Of all the nights we've shared, all the things we've said, and all the nights we still have left to spend together.
+
+So look at her for me.
+
+And maybe look up and think,
+
+“Not as beautiful as you.”
+
+Because I'll probably be somewhere looking right back. 
+
+
 xoxo 
 -Your Cindy
 `
     },
     
     letter30:{ title: "Open when you forget how much I love you", 
-             text: `
+             text: ` Dear Arthur
+
+Hi my love.
+
+If you're reading this, I think you probably need reminding.
+
+So... let me remind you.
+
+I've always loved you for being you.
+
+Not because you ticked some list in my head, or because you were everything I thought I wanted. You were just... you.
+
+And somehow, I loved that.
+
+I love who you are, but I also love who I get to be with you.
+
+I love the way you look at me.
+I love the way you treat me.
+I love the way you see me.
+I love the way you make me feel.
+I love that I can look at you and know there's so much more underneath what everyone else gets to see.
+
+I love your little things.
+
+I love being able to picture you bobbing your little head to a song with a drink in your hand.
+I love how you treat others.
+I love that I actually got to dance with you.
+
+I love that your arms are my home.
+I love all those tiny pieces of you that probably seem so ordinary to you, but somehow became some of my favourite things.
+
+And I think what I love most is that I got to see you without all the walls.
+
+I got to see you fully.
+
+The soft parts. The weird parts. The vulnerable parts. The parts you don't just hand to anybody.
+
+And you let me in.
+
+And somehow, you accepted me when my walls came down too.
+
+You saw me without all the armour I had built around myself, and you stayed.
+
+I don't think you realise how much that means to me.
+
+Because loving someone is one thing.
+
+But being trusted enough to really **know** them?
+
+To see them when they're not trying to be anything?
+
+That is something else entirely.
+
+I love our memories. I love our stupid little moments. I love the way we've built this whole little world without even really meaning to.
+
+And I know life changes. I know people change. I know sometimes things get confusing and hard.
+
+But none of that changes the fact that when I think of you, I think of **you**.
+
+Not some perfect version.
+
+Not some idea.
+
+Just you.
+
+My Arthur.
+
+So if you ever forget how much I love you, come back here.
+
+Read this again.
+
+And remember that there is someone out there who knows you, loves you, misses you, and has seen parts of you that I will always treasure.
+
+And yes, I'm being disgustingly sentimental.
+
+I love you, Barry 
+
 xoxo 
 -Your Cindy
 `
