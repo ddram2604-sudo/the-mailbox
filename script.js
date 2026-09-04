@@ -52,7 +52,7 @@ Sometimes I think hugs say all the things words struggle to.
 "I love you."
 So if this letter can do even a tiny bit of that until I get to hug you for real, 
 then it's doing its job.
-I'm sending you the biggest hug I possibly can through this piece of paper. 
+I'm sending you the biggest hug I possibly can through this piece of my love. 
 YES Its an upsy hug !
 Don't let go too quickly.
 
@@ -72,7 +72,7 @@ I'd be at your door with a blanket, water, soup, and probably enough meds to
 survive a zombie apocalypse.
 I bet you miss my bossy mom mode now.
 Instead, you're stuck with this letter.
-So here's what I need you to do 
+So here's what I need you to do !
 Drink your water.
 Yes, *actual* water.
 Take your medicine if you're supposed to.(text me I will get you what you need)
@@ -82,11 +82,11 @@ I know being sick is boring and annoying, and I also know you're probably going 
 "I'm fine," five minutes before coughing up a lung. 
 Please don't be stubborn. Let your body do its thing.
 
-I wish I could be there to check your temperature, make you something warm, complain that
+I wish I could be there to check your temperature, make you something warm to devour, complain that
 you're impossible to look after,ask you a million times if you took your meds and 
 secretly enjoy taking care of you anyway.
 
-I'd probably BORROW with no intent of return or "steal" as you put it one of your hoodies 
+I'd probably BORROW (with no intent of return or "steal" as you put it) one of your hoodies 
 to keep warm while we watched absolutely FIRE cartoon. 
 I'd make fun of how dramatic you are when you're sick... even though 
 I'd still be asking every ten minutes if you needed anything.
@@ -111,7 +111,41 @@ xoxo
     letter4: {
         title: "Open when you're feeling nostalgic",
         text: `
-Write your letter here...
+Dear Arthur
+
+Hi my champion.
+
+So... you're feeling a little nostalgic, huh?
+
+You miss me?
+Oh, I know you do. 😭
+
+We've had so many days together. So many random little moments, stupid jokes, long conversations, and memories that I know I'll carry with me for a very long time.
+
+We've created so many memories together, and sometimes I find myself thinking about them too.
+
+Honestly, I think I live in a constant state of nostalgia. I'll randomly remember something we did or something you said and suddenly I'm right back there, thinking about how happy I was in that moment.
+
+So if you're sitting there missing me, just know I'm probably doing the exact same thing somewhere.
+
+But I'll be honest with you...
+
+As much as I love looking back at everything we've already done, what makes me even more excited is knowing that we haven't made all our memories yet.
+
+There's still so much ahead of us.
+
+More places.
+More stupid little moments.
+More movies to make..
+More things we'll laugh about.
+More memories that haven't even happened yet.
+
+So I know nostalgia can feel a little heavy sometimes, but don't let it make you feel like the best parts are behind us.
+
+We still have so much more to make.
+
+And I can't wait to make them with you.
+
 xoxo 
 -Your Cindy
 `
@@ -119,8 +153,43 @@ xoxo
 
     letter5: {
         title: "Open when you're feeling sad ",
-        text: `
-Write your letter here...
+        text: ` Dear Arthur
+
+Hi my baby.
+
+You're feeling sad?
+
+Come here.
+
+I know I can't physically give you a hug right now, but just pretend I am. A really big one. The kind where I don't let go until you stop pretending you're fine.
+
+I hate knowing that you're having a bad day or that something is sitting heavily on your heart.
+
+You don't have to hide it from me.
+
+You don't have to pretend to be okay just because you don't want to bother anyone.
+
+Whatever you're feeling is okay.
+
+You can be sad.
+You can be tired.
+You can have a shitty day.
+
+You don't have to fix everything immediately.
+
+I just want you to remember that you're loved.
+
+And if I were there, I'd probably sit with you, give you a million kisses, make you something to eat and then annoy you until I saw you smile again.
+
+So for now, let this letter be my little hug from far away.
+
+Take a breath, my baby.
+
+You don't have to carry everything alone.
+
+I'm thinking of you, and I'm sending you the biggest kiss I possibly can.
+
+
 xoxo 
 -Your Cindy
 `
