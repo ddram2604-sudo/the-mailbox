@@ -218,6 +218,7 @@ And if I was there, I'd probably tell you to stop fighting sleep while annoying 
 So go to sleep, silly.
 
 You can deal with the world again when the sun comes up.
+Well more like when the sun has been up for hours, you aren't an early bird.
 
 For now, just rest.
 
